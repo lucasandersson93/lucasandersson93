@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @lucasandersson93
-- 👀 I’m interested in Sports
 - 🌱 I’m currently learning Java, Javascript, HTML and CSS
 
 <!---
